@@ -1,8 +1,6 @@
 
 
-
-export * from './mongo/mongo-database';
-
-export * from './mongo/models/category.model';
-export * from './mongo/models/product.model';
-export * from './mongo/models/user.model';
+export * from './mongo-database';
+export * from './models/category.model';
+export * from './models/product.model';
+export * from './models/user.model';
